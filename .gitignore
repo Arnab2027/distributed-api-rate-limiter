@@ -1,0 +1,17 @@
+# Local Virtual Environments
+venv/
+ENV/
+env/
+
+# Python caching mechanisms
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system metadata files
+.DS_Store
+Thumbs.db
+
+# Local environment configuration secrets
+.env
